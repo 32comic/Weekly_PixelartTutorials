@@ -84,7 +84,7 @@ description: Monday weekly automation for Weekly_PixelartTutorials—create last
 
 4. **`## 鸡汤摘录` 或 `## 雞湯`**  
    - **每週一例行**：必須依**階段 B**自動填入；`README` 該期連結簡稱優先取自雞湯首句或主題（簡短即可）。  
-   - **若 B 站抓取失敗**或無符合條件之文字動態：在雞湯區保留標題並加一行 `（本周鸡汤抓取失败，请手动从空间动态粘贴。）`，**仍須**完成 README 與 Git 提交，並在回覆中說明原因。  
+   - **若 B 站抓取失敗**或無符合條件之文字動態：雞湯區可寫入「无」或僅保留小標題下空行（呈現為無），**仍須**完成 README 與 Git 提交，並在回覆中簡述原因。  
    - **若使用者當輪貼出定稿全文**：**以使用者文字為準**覆寫後再 commit。
 
 ## `README.md` 更新（自動）
@@ -130,7 +130,7 @@ description: Monday weekly automation for Weekly_PixelartTutorials—create last
 | --- | --- |
 | 1 | 依「今天」推算**上一自然週**日期區間；決定**期號**（預設 max+1）。 |
 | 2 | 核對 `32doc` **該區間內已推送**教程 → 抽取原文 URL 與評論 → 寫入／新建 `doc/issue-<期號>.md` 的「本周教程」。 |
-| 3 | **階段 B**：自動寫入「鸡汤摘录」（失敗則占位說明，仍繼續）。 |
+| 3 | **階段 B**：自動寫入「鸡汤摘录」（失敗則可為「无」，仍繼續 README 與 Git）。 |
 | 4 | 更新 `README.md` 年／月與期數連結。 |
 | 5 | **階段 C**：`git commit` + `git push`。 |
 
