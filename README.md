@@ -6,6 +6,10 @@ Collect any pixel art tutorials
 
 # 2026
 
+## 五月
+
+- 第363期：[个人品牌与记录](doc/issue-363.md)
+
 ## 四月
 
 - 第362期：[心态改变](doc/issue-362.md)
