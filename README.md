@@ -8,6 +8,7 @@ Collect any pixel art tutorials
 
 ## 五月
 
+- 第366期：[说服别人](doc/issue-366.md)
 - 第365期：[刚需](doc/issue-365.md)
 - 第364期：[深入浅出](doc/issue-364.md)
 - 第363期：[个人品牌与记录](doc/issue-363.md)
