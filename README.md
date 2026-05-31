@@ -8,6 +8,7 @@ Collect any pixel art tutorials
 
 ## 五月
 
+- 第367期：[差异化](doc/issue-367.md)
 - 第366期：[说服别人](doc/issue-366.md)
 - 第365期：[刚需](doc/issue-365.md)
 - 第364期：[深入浅出](doc/issue-364.md)
