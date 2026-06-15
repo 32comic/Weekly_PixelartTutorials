@@ -6,6 +6,10 @@ Collect any pixel art tutorials
 
 # 2026
 
+## 六月
+
+- 第368期：[放过自己](doc/issue-368.md)
+
 ## 五月
 
 - 第367期：[差异化](doc/issue-367.md)
