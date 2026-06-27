@@ -8,6 +8,7 @@ Collect any pixel art tutorials
 
 ## 六月
 
+- 第369期：[数据和IP才是护城河](doc/issue-369.md)
 - 第368期：[放过自己](doc/issue-368.md)
 
 ## 五月
