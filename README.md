@@ -6,6 +6,10 @@ Collect any pixel art tutorials
 
 # 2026
 
+## 九月
+
+- 第371期：[努力越小，价格越高](doc/issue-371.md)
+
 ## 七月
 
 - 第370期：[合格需求的3个必备要素](doc/issue-370.md)
